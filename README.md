@@ -32,3 +32,6 @@
 ### Para saber se você tem o tkinter instalado, abra o terminal e digite o seguinte 
 ### Comando: python -m tkinter
 ### Se você tiver ele irá aparecer uma janelinha de teste.
+
+### Para criar o instalador:
+pyinstaller.exe -w main.py --add-data "icones:icones" --add-data "janelas:janelas" --name "Maia-Translator" --onefile
