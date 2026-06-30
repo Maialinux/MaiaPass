@@ -38,20 +38,46 @@ Para realizar a criptografia, o sistema utiliza a biblioteca **cryptocode** e ge
 ## 📸 Demonstração e Capturas de Tela
 
 ### Interface do Usuário (Modo Claro & Escuro)
-O aplicativo se integra perfeitamente ao modo de exibição preferido do sistema operacional.
+O aplicativo integra-se de forma dinâmica às preferências visuais do seu sistema.
 
+#### Visual do Programa (Modo Escuro / Dark Theme)
 <p align="center">
-  <img src="imagens/MaiaPass.jpg" alt="Interface do MaiaPass" width="600">
+  <img src="imagens/visual_dark.png" alt="MaiaPass Modo Escuro" width="650">
 </p>
 
-### Fluxo de Funcionamento (Exemplo Passo a Passo)
-O processo consiste em carregar/gerar uma chave secreta, inserir o texto e processá-lo.
-
+#### Visual do Programa (Modo Claro / Light Theme)
 <p align="center">
-  <img src="imagens/tutorialMaiaPass01.png" alt="Geração e Carregamento de Chave" width="48%">
-  &nbsp;
-  <img src="imagens/tutorialMaiaPass02.png" alt="Criptografando Texto" width="48%">
+  <img src="imagens/Programa.png" alt="MaiaPass Modo Claro" width="650">
 </p>
+
+#### Visão Geral da Área de Trabalho
+<p align="center">
+  <img src="imagens/MaiaPass.jpg" alt="MaiaPass Visão Geral" width="650">
+</p>
+
+---
+
+### Fluxo de Funcionamento (Tutorial Passo a Passo)
+
+O fluxo básico consiste em carregar ou gerar uma chave, inserir a mensagem e processá-la.
+
+| Passo 1: Geração e Carregamento de Chave | Passo 2: Criptografando Mensagem |
+|:---:|:---:|
+| <img src="imagens/tutorialMaiaPass01.png" alt="Passo 1" width="100%"> | <img src="imagens/tutorialMaiaPass02.png" alt="Passo 2" width="100%"> |
+
+| Passo 3: Copiando o Resultado Gerado | Passo 4: Descriptografando Mensagem |
+|:---:|:---:|
+| <img src="imagens/tutorialMaiaPass03.png" alt="Passo 3" width="100%"> | <img src="imagens/tutorialMaiaPass04.png" alt="Passo 4" width="100%"> |
+
+---
+
+### Logos do Projeto
+
+Temos duas variações principais do logotipo do projeto MaiaPass:
+
+| Variação 1 (Logotipo Principal) | Variação 2 (Logotipo Alternativo) |
+|:---:|:---:|
+| <img src="imagens/logo1.png" alt="Logo Principal" width="200"> | <img src="imagens/logo2.png" alt="Logo Alternativo" width="200"> |
 
 ---
 
@@ -147,7 +173,7 @@ O arquivo gerado ficará disponível na pasta `/dist`.
 
 ## 📃 Licença
 
-Este projeto é licenciado sob os termos da licença [MIT](file:///c:/Users/luiz.eduardo/Documents/MaiaPass/LICENSE).
+Este projeto é licensed sob os termos da licença [MIT](file:///c:/Users/luiz.eduardo/Documents/MaiaPass/LICENSE).
 
 ---
 
