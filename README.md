@@ -50,11 +50,6 @@ O aplicativo integra-se de forma dinâmica às preferências visuais do seu sist
   <img src="imagens/Programa.png" alt="MaiaPass Modo Claro" width="650">
 </p>
 
-#### Visão Geral da Área de Trabalho
-<p align="center">
-  <img src="imagens/MaiaPass.jpg" alt="MaiaPass Visão Geral" width="650">
-</p>
-
 ---
 
 ### Fluxo de Funcionamento (Tutorial Passo a Passo)
